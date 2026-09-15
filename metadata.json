@@ -1,0 +1,6 @@
+{
+  "name": "Culinary Blog",
+  "description": "Bộ khung giao diện (UI skeleton) cho đồ án Blog Ẩm thực và Nấu ăn - Đại học Đà Lạt",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
